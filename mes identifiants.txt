@@ -1,0 +1,7 @@
+ADMIN:
+username: belyse
+mot de passe: Marie@2023
+
+EDITEUR
+username: JOY
+mon de passe:belyse57706926
